@@ -329,6 +329,5 @@ branch {
 | Auther | Damian Mostert |
 | ------------- |:-------------:|
 | Email | damianmostert86@gmail.com |
-| Time it took to build this project till this point | 24h00 (one day) |
 
 </center>
