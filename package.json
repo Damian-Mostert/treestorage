@@ -1,0 +1,16 @@
+{
+  "name": "treestorage",
+  "version": "1.0.4",
+  "description": "A fully open source database building tool for node.js",
+  "main": "treeStorage.js",
+  "scripts": {
+    "test": "node treeStorage.js"
+  },
+  "keywords": [
+    "tree",
+    "storage",
+    "database",
+    "db,"
+  ],
+  "author": "Damian Mostert"
+}
